@@ -1,0 +1,5 @@
+looking by index => n
+looking by value => n
+insert at 0 => 1
+insert at last => n
+deleting => n

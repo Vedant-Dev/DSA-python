@@ -1,0 +1,4 @@
+looking by index => 1
+looking by value => n
+insert => n
+deleting => n
